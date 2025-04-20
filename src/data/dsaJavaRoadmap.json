@@ -1,0 +1,2558 @@
+[
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Divide time between learning, revising, and solving problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Divide time between learning, revising, and solving problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Divide time between learning, revising, and solving problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Divide time between learning, revising, and solving problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Work on implementing a project using multiple data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Work on implementing a project using multiple data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Work on implementing a project using multiple data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Work on implementing a project using multiple data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Work on implementing a project using multiple data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Work on implementing a project using multiple data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Work on implementing a project using multiple data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Work on implementing a project using multiple data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Work on implementing a project using multiple data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Work on implementing a project using multiple data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Work on implementing a project using multiple data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Work on implementing a project using multiple data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Divide time between learning, revising, and solving problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Divide time between learning, revising, and solving problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Divide time between learning, revising, and solving problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Divide time between learning, revising, and solving problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Divide time between learning, revising, and solving problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Divide time between learning, revising, and solving problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Divide time between learning, revising, and solving problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Divide time between learning, revising, and solving problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with understanding basic data structures like arrays, linked lists, and stacks.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Divide time between learning, revising, and solving problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Divide time between learning, revising, and solving problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Divide time between learning, revising, and solving problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Divide time between learning, revising, and solving problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Work on implementing a project using multiple data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Work on implementing a project using multiple data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Work on implementing a project using multiple data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Work on implementing a project using multiple data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Work on implementing a project using multiple data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Work on implementing a project using multiple data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Work on implementing a project using multiple data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Work on implementing a project using multiple data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Work on implementing a project using multiple data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Work on implementing a project using multiple data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Work on implementing a project using multiple data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Work on implementing a project using multiple data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Divide time between learning, revising, and solving problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Divide time between learning, revising, and solving problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Divide time between learning, revising, and solving problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Divide time between learning, revising, and solving problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Divide time between learning, revising, and solving problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Divide time between learning, revising, and solving problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Divide time between learning, revising, and solving problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Divide time between learning, revising, and solving problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Focus on mastering trees, graphs, and hashing.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Divide time between learning, revising, and solving problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Divide time between learning, revising, and solving problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Divide time between learning, revising, and solving problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Divide time between learning, revising, and solving problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Practice problems from LeetCode and GeeksforGeeks regularly.",
+      "Revise time and space complexity for each data structure.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Work on implementing a project using multiple data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Work on implementing a project using multiple data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Work on implementing a project using multiple data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Work on implementing a project using multiple data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Work on implementing a project using multiple data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Work on implementing a project using multiple data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Work on implementing a project using multiple data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Work on implementing a project using multiple data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Work on implementing a project using multiple data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Work on implementing a project using multiple data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Work on implementing a project using multiple data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Work on implementing a project using multiple data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Divide time between learning, revising, and solving problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Divide time between learning, revising, and solving problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Divide time between learning, revising, and solving problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Divide time between learning, revising, and solving problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore fun coding challenges using data structures on HackerRank.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Divide time between learning, revising, and solving problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Divide time between learning, revising, and solving problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Divide time between learning, revising, and solving problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Divide time between learning, revising, and solving problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Understand the theoretical concepts behind data structures and their applications.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Spend time wisely with focused short tutorials and quick problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Divide time between learning, revising, and solving problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Follow a strict daily schedule with bite-sized learningGoals."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Include revision days and small assessments."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Keep weekends for in-depth learning and implementation."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Revisit weak areas and practice complex problems like segment trees and tries.",
+      "Explore internal implementations and optimizations of core data structures.",
+      "Use extra hours to build a mini project and solve competitive problems.",
+      "Learn at your own pace but try to be consistent weekly."
+    ]
+  }
+]

@@ -1,0 +1,7361 @@
+[
+  {
+    "id": 1,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 2,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 3,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 4,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 5,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 6,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 7,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 8,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 9,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 10,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 11,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 12,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 13,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 14,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 15,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 16,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 17,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 18,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 19,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 20,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 21,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 22,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 23,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 24,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 25,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 26,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 27,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 28,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 29,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 30,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 31,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 32,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 33,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 34,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 35,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 36,
+    "answers": {
+      "experience": "beginner",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 37,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 38,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 39,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 40,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 41,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 42,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 43,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 44,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 45,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 46,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 47,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 48,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 49,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 50,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 51,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 52,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 53,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 54,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 55,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 56,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 57,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 58,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 59,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 60,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 61,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 62,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 63,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 64,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 65,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 66,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 67,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 68,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 69,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 70,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 71,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 72,
+    "answers": {
+      "experience": "beginner",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 73,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 74,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 75,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 76,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 77,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 78,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 79,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 80,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 81,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 82,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 83,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 84,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 85,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 86,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 87,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 88,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 89,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 90,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 91,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 92,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 93,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 94,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 95,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 96,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 97,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 98,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 99,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 100,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 101,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 102,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 103,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 104,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 105,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 106,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 107,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 108,
+    "answers": {
+      "experience": "beginner",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 109,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 110,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 111,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 112,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 113,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 114,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 115,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 116,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 117,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 118,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 119,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 120,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 121,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 122,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 123,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 124,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 125,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 126,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 127,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 128,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 129,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 130,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 131,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 132,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 133,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 134,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 135,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 136,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 137,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 138,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 139,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 140,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 141,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 142,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 143,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 144,
+    "answers": {
+      "experience": "beginner",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 145,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 146,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 147,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 148,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 149,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 150,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 151,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 152,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 153,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 154,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 155,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 156,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 157,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 158,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 159,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 160,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 161,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 162,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 163,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 164,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 165,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 166,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 167,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp."
+    ]
+  },
+  {
+    "id": 168,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 169,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 170,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 171,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 172,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 173,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 174,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 175,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 176,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 177,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 178,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 179,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 180,
+    "answers": {
+      "experience": "beginner",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Start with basic ML concepts from freeCodeCamp.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 181,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 182,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 183,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 184,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 185,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 186,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 187,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 188,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 189,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 190,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 191,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 192,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 193,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 194,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 195,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 196,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 197,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 198,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 199,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 200,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 201,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 202,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 203,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 204,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 205,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 206,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 207,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 208,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 209,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 210,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 211,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 212,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 213,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 214,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 215,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 216,
+    "answers": {
+      "experience": "familiar",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 217,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 218,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 219,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 220,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 221,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 222,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 223,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 224,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 225,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 226,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 227,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 228,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 229,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 230,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 231,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 232,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 233,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 234,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 235,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 236,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 237,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 238,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 239,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 240,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 241,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 242,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 243,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 244,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 245,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 246,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 247,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 248,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 249,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 250,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 251,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 252,
+    "answers": {
+      "experience": "familiar",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 253,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 254,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 255,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 256,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 257,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 258,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 259,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 260,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 261,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 262,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 263,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 264,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 265,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 266,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 267,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 268,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 269,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 270,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 271,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 272,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 273,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 274,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 275,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 276,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 277,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 278,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 279,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 280,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 281,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 282,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 283,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 284,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 285,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 286,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 287,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 288,
+    "answers": {
+      "experience": "familiar",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 289,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 290,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 291,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 292,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 293,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 294,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 295,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 296,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 297,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 298,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 299,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 300,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 301,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 302,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 303,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 304,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 305,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 306,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 307,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 308,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 309,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 310,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 311,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 312,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 313,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 314,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 315,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 316,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 317,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 318,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 319,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 320,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 321,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 322,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 323,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 324,
+    "answers": {
+      "experience": "familiar",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 325,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 326,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 327,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 328,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 329,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 330,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 331,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 332,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 333,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 334,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 335,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 336,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 337,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 338,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 339,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 340,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 341,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 342,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 343,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 344,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 345,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 346,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 347,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 348,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 349,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 350,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 351,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 352,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 353,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 354,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 355,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 356,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 357,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 358,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 359,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 360,
+    "answers": {
+      "experience": "familiar",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 361,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 362,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 363,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 364,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 365,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 366,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 367,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 368,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 369,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 370,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 371,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 372,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 373,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 374,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 375,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 376,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 377,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 378,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 379,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 380,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 381,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 382,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 383,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees."
+    ]
+  },
+  {
+    "id": 384,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 385,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 386,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 387,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 388,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 389,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 390,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 391,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 392,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 393,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 394,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 395,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 396,
+    "answers": {
+      "experience": "not sure",
+      "goal": "crack interview",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Focus on ML algorithms asked in interviews like SVM, Decision Trees.",
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 397,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 398,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 399,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 400,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 401,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 402,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 403,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 404,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 405,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 406,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 407,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 408,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 409,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 410,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 411,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 412,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 413,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 414,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 415,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 416,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 417,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 418,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 419,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 420,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 421,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 422,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 423,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 424,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 425,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 426,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 427,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 428,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 429,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 430,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 431,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 432,
+    "answers": {
+      "experience": "not sure",
+      "goal": "college projects",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 433,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 434,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 435,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 436,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 437,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 438,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 439,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 440,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 441,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 442,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 443,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 444,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 445,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 446,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 447,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 448,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 449,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 450,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 451,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 452,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 453,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 454,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 455,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 456,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 457,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 458,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 459,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 460,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 461,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 462,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 463,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 464,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 465,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 466,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 467,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 468,
+    "answers": {
+      "experience": "not sure",
+      "goal": "for fun",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 469,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 470,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 471,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 472,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 473,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 474,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 475,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 476,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 477,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 478,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 479,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 480,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 481,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 482,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 483,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 484,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 485,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 486,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 487,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 488,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 489,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 490,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 491,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 492,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 493,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 494,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 495,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 496,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 497,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 498,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 499,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 500,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 501,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 502,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 503,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 504,
+    "answers": {
+      "experience": "not sure",
+      "goal": "higher studies",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 505,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 506,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 507,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 508,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 509,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 510,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 511,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 512,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 513,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 514,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 515,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 516,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "3 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 517,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 518,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 519,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 520,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 521,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 522,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 523,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 524,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 525,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 526,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 527,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Explore ML with a mix of theory and practical examples."
+    ]
+  },
+  {
+    "id": 528,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "6 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 529,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 530,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course."
+    ]
+  },
+  {
+    "id": 531,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "2 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Fast-track with Google ML Crash Course.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 532,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 533,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 534,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "3 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 535,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 536,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 537,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "4 weeks",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  },
+  {
+    "id": 538,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "theory heavy"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 539,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "balanced"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets."
+    ]
+  },
+  {
+    "id": 540,
+    "answers": {
+      "experience": "not sure",
+      "goal": "to go deeper into the topic",
+      "time": "10 hrs",
+      "timeline": "no specific deadlines",
+      "preference": "project based"
+    },
+    "roadmap": [
+      "Spend weekends on mini-projects with real datasets.",
+      "Build 1 project per week using Kaggle datasets."
+    ]
+  }
+]

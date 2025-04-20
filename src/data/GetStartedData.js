@@ -23,12 +23,12 @@ const questions = [
       options: ["2 weeks", "3 weeks", "4 weeks", "No specific deadline"],
       key: "timeline"
     },
-    {
-      id: 5,
-      question: "Do you prefer more theory or hands-on practice?",
-      options: ["Theory heavy", "Balanced", "Project-based"],
-      key: "learningStyle"
-    }
+    // {
+    //   id: 5,
+    //   question: "Do you prefer more theory or hands-on practice?",
+    //   options: ["Theory heavy", "Balanced", "Project-based"],
+    //   key: "learningStyle"
+    // }
   ];
   
   export default questions;

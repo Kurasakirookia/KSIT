@@ -1,0 +1,2516 @@
+[
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "beginner",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Start with React official documentation on components and JSX.",
+      "Build a basic to-do list app to understand state and props.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "familiar",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "crack interview",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "college projects",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Understand routing using React Router.",
+      "Use GitHub to host and collaborate on your project.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for fun",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "for higher studies",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "3 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "6 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Take your time and experiment with different project ideas."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "2 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Plan a daily study schedule and track with a checklist."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "3 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "4 weeks"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch."
+    ]
+  },
+  {
+    "answers": {
+      "experienceLevel": "not sure",
+      "learningGoal": "to go deeper into the topic",
+      "timePerWeek": "10 hrs",
+      "timeline": "no specific deadlines"
+    },
+    "roadmap": [
+      "Deep dive into React hooks and context API.",
+      "Build a small project like a weather app or movie browser.",
+      "Try building an advanced project like a personal blog or portfolio.",
+      "Integrate APIs using Axios or Fetch.",
+      "Take your time and experiment with different project ideas."
+    ]
+  }
+]

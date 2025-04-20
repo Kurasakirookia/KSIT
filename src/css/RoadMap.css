@@ -1,0 +1,52 @@
+.roadmap_container{
+    display: flex;
+    justify-content: center;
+}
+.roadmap_info{
+    width:90%; 
+}
+
+.roadmap_course{
+    font-size: 34px;
+}
+
+
+.roadmap_steps{
+   padding-left: 0;
+   
+}
+
+
+.step_content{
+    max-height:100px;
+    padding-top:2.5%;
+
+}
+
+.li_content{
+    all: unset;
+    height: 200px;
+    width: 100%;
+    display: flex;
+   
+}
+
+.li_info{
+    width: 50%;
+    height: 100%;
+   
+}
+
+.roadmap_img_container{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 2vh;
+}
+
+.roadmap_img{
+    height: 90%;
+    object-fit: contain;
+}
