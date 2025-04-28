@@ -1,13 +1,24 @@
 import React from 'react'
 import "../css/HomePage.css"
 import courses from "../data/CoursesData"
-import { useState } from 'react'
+import { useState, useEffect} from 'react'
 import { useNavigate } from 'react-router-dom'
 import view_more from "../assets/view_more_icon.png"
+import { auth } from '../firebase';
 
 
 const HomePage = () => {
   const navigate=useNavigate();
+
+  useEffect(() => {
+    const unsubscribe = auth.onAuthStateChanged(user => {
+      if (!user) {
+        navigate('/login'); // Not logged in? Send back to login
+      }
+    });
+
+    return () => unsubscribe();
+  }, [navigate]);
  
 
   const [searchTerm, setSearchTerm] = useState('');

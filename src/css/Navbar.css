@@ -12,6 +12,9 @@ body{
     height: auto;
     border-radius: 0 5vh 5vh 0;
     background-color: #dedef1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     
     
     
@@ -36,5 +39,30 @@ body{
 
 }
 
+
+.login_signup{
+    margin-left:30px ;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.profilelogo{
+    height: 30px;
+    object-fit: contain;
+}
+
+.text{
+    /* text-decoration: none; */
+    color: black;
+}
+
+.text{
+    
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 2px;
+}
 
 

@@ -1,0 +1,62 @@
+.profile_container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.profile_pic_container{
+    width: 29%;
+    margin-right: 1vh;
+    height: 100vh;
+    background-color:rgb(200, 200, 114);
+    display: flex;
+   
+    justify-content: center;
+    align-items: center;
+}
+.enrolled_courses{
+    width: 68%;
+    height: 100vh;
+    /* background-color:black; */
+}
+
+.profile_section_image{
+    height: 18vh;
+    object-fit: contain;
+
+}
+.profile_pic_content{
+    height: 40%;
+    width: 80%;
+    background-color:aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+}
+
+.enrolled_courses{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.course_list{
+    all: unset;
+    list-style-type: none;
+    width: 80%;
+}
+
+.course_item{
+
+   list-style: none;
+   width:100%;
+   height: 20vh;
+   background-color:bisque;
+   border-radius: 2vh;
+}
+#username{
+    all: unset;
+}
