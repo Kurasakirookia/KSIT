@@ -85,13 +85,24 @@ import "../css/ProfilePage.css";
 import { useNavigate } from 'react-router-dom';
 
 const ProfilePage = () => {
+
+
+const navigate = useNavigate();
+const handleCourseClick = (courseObj) => {
+  navigate('/RoadMap', {
+    state: {
+      selectedCourse: courseObj.course,
+      answers: courseObj.answers,
+    }
+  });
+};
   const auth = getAuth();
   const storage = getStorage();
   const [userData, setUserData] = useState(null);
   const [loading, setLoading] = useState(true);
   const fileInputRef = useRef(null);
 
-  const navigate = useNavigate();
+
 
   useEffect(() => {
     const fetchUserData = async () => {
@@ -173,7 +184,7 @@ const ProfilePage = () => {
             onChange={handleFileChange}
           />
           <p id="username">{auth.currentUser?.email || "User"}</p>
-          <p className="click_to_change">(Click to change photo)</p>
+
         </div>
       </div>
 
@@ -183,7 +194,7 @@ const ProfilePage = () => {
         {userData?.enrolledCourses?.length > 0 ? (
           <ul className="course_list">
             {userData.enrolledCourses.map((course, idx) => (
-              <li key={course.id} className="course_item">
+              <li key={course.id}  onClick={() => handleCourseClick(course)} className="course_item">
                 <h3>{course.course}</h3>
                 <p>Complete by: {course.deadline}</p>
                 <p>Daily Notifications: {course.notificationsEnabled ? "Enabled" : "Disabled"}</p>

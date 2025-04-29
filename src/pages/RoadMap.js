@@ -1,260 +1,102 @@
-  // import React,{useState} from 'react';
-  // import { useLocation, useNavigate } from 'react-router-dom';
-  // import "../css/RoadMap.css";   
-  
-  // import { getAuth } from 'firebase/auth';
-  // import { getFirestore, doc, updateDoc, arrayUnion } from 'firebase/firestore';
-  // import reactlogo from "../assets/react_4.png"
-  // import roadmapImages from '../data/roadmapImages';
 
-  // // Import all roadmap JSONs
-  // import DataStructuresinJava from '../data/dsaJavaRoadmap.json';
-  // import ReactforBeginners from '../data/reactForBeginnersRoadmap.json';
-  // // Add more imports here...
+// import React from 'react';
+// import { useLocation } from 'react-router-dom';
+// import "../css/RoadMap.css"; // Optional, for custom styling later
 
-  // // Store them in an object with normalized keys
-  // const roadmaps = {
-  //   datastructuresinjava: DataStructuresinJava,
-  //   reactforbeginners: ReactforBeginners,
-  //   // Add more mappings here
-  // };
+// const Roadmap = () => {
+//   const location = useLocation();
+//   const { roadmapData, selectedCourse, answers } = location.state || {};
 
-  // const RoadMap = () => {
-  //   const location = useLocation();
-  //   const navigate = useNavigate();
-  //   const { answers, selectedCourse } = location.state || {};
+//   if (!roadmapData) {
+//     return <div>Loading roadmap...</div>;
+//   }
 
-  //   const [showEnrollForm, setShowEnrollForm] = useState(false);
-  //   const [completionDate, setCompletionDate] = useState('');
-  //   const [notificationEnabled, setNotificationEnabled] = useState(false);
-  
-  //   const auth = getAuth();
-  //   const db = getFirestore();
-    
+//   const hasRoadmapArray = Array.isArray(roadmapData.roadmap);
 
-  //   const normalize = str => str?.toString().toLowerCase().replace(/\s+/g, '');
+//   return (
+//     <div className="roadmap-container">
+//       <h1 className="roadmap-title">Roadmap for {selectedCourse}</h1>
 
-  //   const normalizeKeys = obj =>
-  //     Object.fromEntries(
-  //       Object.entries(obj || {}).map(([key, value]) => [normalize(key), normalize(value)])
-  //     );
+//       {hasRoadmapArray ? (
+//         roadmapData.roadmap.map((module, moduleIndex) => (
+//           <div key={moduleIndex} className="module">
+//             <h2 className="module-title">{module.module}</h2>
 
-  //   const normalizedAnswers = normalizeKeys(answers);
-  //   const normalizedCourseKey = normalize(selectedCourse);
-  //   const roadmapData = roadmaps[normalizedCourseKey];
-  //   const imageList = roadmapImages[normalizedCourseKey] || [];
+//             {module.chapters.map((chapter, chapterIndex) => (
+//               <div key={chapterIndex} className="chapter">
+//                 <h3 className="chapter-title">
+//                   {chapter.chapter_title} ({chapter.duration})
+//                 </h3>
+//                 <p className="chapter-description">{chapter.description}</p>
+//                 <p><strong>Goal:</strong> {chapter.goal}</p>
 
+//                 <div className="resources">
+//                   <strong>Resources:</strong>
+//                   <ul>
+//                     {chapter.resources.map((resource, resourceIndex) => (
+//                       <li key={resourceIndex}>
+//                         <a href={resource} target="_blank" rel="noopener noreferrer">
+//                           {resource}
+//                         </a>
+//                       </li>
+//                     ))}
+//                   </ul>
+//                 </div>
 
-  //   // Early exit if course isn't found
-  //   if (!roadmapData) {
-  //     return (
-  //       <div>
-  //         <h2>{selectedCourse}</h2>
-  //         <p>No roadmap data found for this course. Please check if it’s imported properly.</p>
-  //       </div>
-  //     );
-  //   }
+//                 <p className="mini-project">
+//                   <strong>Mini Project:</strong> {chapter.mini_project}
+//                 </p>
 
-  //   const matchedRoadmap = roadmapData.find(item => {
-  //     if (!item.answers) return false; // Skip if no answers defined
-  //     const normalizedItemAnswers = normalizeKeys(item.answers);
-  //     return Object.entries(normalizedItemAnswers).every(
-  //       ([key, value]) => normalizedAnswers[key] === value
-  //     );
-  //   });
+//                 <hr />
+//               </div>
+//             ))}
+//           </div>
+//         ))
+//       ) : (
+//         <div className="raw-output">
+//           <h2>⚡ Raw DeepSeek Output:</h2>
+//           <pre>{JSON.stringify(roadmapData, null, 2)}</pre>
+//         </div>
+//       )}
+//     </div>
+//   );
+// };
 
-  //   const handleEnroll = () => {
-  //     if (!auth.currentUser) {
-  //       navigate('/Login'); // If not logged in, send to Login page
-  //     } else {
-  //       setShowEnrollForm(true); // Show form to enter deadline & notification preference
-  //     }
-  //   };
-  
-  //   const handleFormSubmit = async (e) => {
-  //     e.preventDefault();
-  
-  //     try {
-  //       const userRef = doc(db, 'users', auth.currentUser.uid);
-  
-  //       await updateDoc(userRef, {
-  //         enrolledCourses: arrayUnion({
-  //           course: selectedCourse,
-  //           deadline: completionDate,
-  //           notificationsEnabled: notificationEnabled,
-  //         })
-  //       });
-  
-  //       alert('Successfully Enrolled!');
-  //       setShowEnrollForm(false); // Close the form
-  //     } catch (error) {
-  //       console.error('Error enrolling:', error);
-  //       alert('Failed to enroll. Please try again.');
-  //     }
-  //   };
-  
+import React, { useEffect, useState } from 'react';
+import { useLocation } from 'react-router-dom';
+import "../css/RoadMap.css"; // Optional styling
 
-  //   return (
-  //     <div className="roadmap_container">
-  //       <div className='roadmap_info'>
-  //         <h2 className='roadmap_course'>Suggested Roadmap for {selectedCourse}</h2>
-  
-  //         {matchedRoadmap ? (
-  //           <ul className='roadmap_steps'>
-  //             {matchedRoadmap.roadmap.map((step, idx) => (
-  //               <li key={idx} className='li_content'>
-  //                 <div className="li_info">
-  //                   <h2>{`Step ${idx + 1}`}</h2>
-  //                   <p className="step_content">{step}</p>
-  //                 </div>
-  //                 <div className="roadmap_img_container">
-  //                   <img
-  //                     src={imageList[idx % imageList.length] || reactlogo}
-  //                     alt={`Step ${idx + 1}`}
-  //                     className='roadmap_img'
-  //                   />
-  //                 </div>
-  //               </li>
-  //             ))}
-  //           </ul>
-  //         ) : (
-  //           <p>No matching roadmap found for the selected options.</p>
-  //         )}
-  
-  //         {/* ENROLL Button */}
-  //         <button className="enroll_button" onClick={handleEnroll}>
-  //           Enroll Now
-  //         </button>
-  
-  //         {/* ENROLL Form (only show when form is opened) */}
-  //         {showEnrollForm && (
-  //           <form onSubmit={handleFormSubmit} className="enroll_form">
-  //             <label>
-  //               Completion Date:
-  //               <input
-  //                 type="date"
-  //                 value={completionDate}
-  //                 onChange={(e) => setCompletionDate(e.target.value)}
-  //                 required
-  //               />
-  //             </label>
-  //             <label>
-  //               Daily Notifications:
-  //               <input
-  //                 type="checkbox"
-  //                 checked={notificationEnabled}
-  //                 onChange={(e) => setNotificationEnabled(e.target.checked)}
-  //               />
-  //             </label>
-  //             <button type="submit" className="submit_enroll_button">
-  //               Submit Enrollment
-  //             </button>
-  //           </form>
-  //         )}
-  //       </div>
-  //     </div>
-  //   );
-  // };
-  
+const Roadmap = () => {
+  const location = useLocation();
+  const { roadmapData, selectedCourse } = location.state || {};
 
-  // export default RoadMap;
-  import React from 'react';
-  import { useLocation, useNavigate } from 'react-router-dom';
-  import { getAuth } from 'firebase/auth';
-  import "../css/RoadMap.css";   
-  
-  import reactlogo from "../assets/react_4.png";
-  import roadmapImages from '../data/roadmapImages';
-  
-  // Import all roadmap JSONs
-  import DataStructuresinJava from '../data/dsaJavaRoadmap.json';
-  import ReactforBeginners from '../data/reactForBeginnersRoadmap.json';
-  // Add more imports...
-  
-  const roadmaps = {
-    datastructuresinjava: DataStructuresinJava,
-    reactforbeginners: ReactforBeginners,
-    // More...
-  };
-  
-  const RoadMap = () => {
-    const location = useLocation();
-    const navigate = useNavigate();
-    const { answers, selectedCourse } = location.state || {};
-  
-    const auth = getAuth();
-  
-    const normalize = str => str?.toString().toLowerCase().replace(/\s+/g, '');
-    const normalizeKeys = obj =>
-      Object.fromEntries(
-        Object.entries(obj || {}).map(([key, value]) => [normalize(key), normalize(value)])
-      );
-  
-    const normalizedAnswers = normalizeKeys(answers);
-    const normalizedCourseKey = normalize(selectedCourse);
-    const roadmapData = roadmaps[normalizedCourseKey];
-    const imageList = roadmapImages[normalizedCourseKey] || [];
-  
-    if (!roadmapData) {
-      return (
-        <div>
-          <h2>{selectedCourse}</h2>
-          <p>No roadmap data found for this course.</p>
-        </div>
-      );
-    }
-  
-    const matchedRoadmap = roadmapData.find(item => {
-      if (!item.answers) return false;
-      const normalizedItemAnswers = normalizeKeys(item.answers);
-      return Object.entries(normalizedItemAnswers).every(
-        ([key, value]) => normalizedAnswers[key] === value
-      );
-    });
-  
-    const handleEnroll = () => {
-      if (!auth.currentUser) {
-        navigate('/Login'); // not logged in
+  const [rawOutput, setRawOutput] = useState('');
+
+  useEffect(() => {
+    if (roadmapData) {
+      if (roadmapData.raw_response) {
+        setRawOutput(roadmapData.raw_response);
+      } else if (roadmapData.roadmap) {
+        // Fallback: convert the structured roadmap object into readable text
+        setRawOutput(JSON.stringify(roadmapData, null, 2));
       } else {
-        navigate('/Enroll', { state: { selectedCourse } }); // go to enroll page
+        setRawOutput('No roadmap data available.');
       }
-    };
-  
-    return (
-      <div className="roadmap_container">
-        <div className="roadmap_info">
-          <h2 className="roadmap_course">Suggested Roadmap for {selectedCourse}</h2>
-  
-          {matchedRoadmap ? (
-            <ul className="roadmap_steps">
-              {matchedRoadmap.roadmap.map((step, idx) => (
-                <li key={idx} className="li_content">
-                  <div className="li_info">
-                    <h2>{`Step ${idx + 1}`}</h2>
-                    <p className="step_content">{step}</p>
-                  </div>
-                  <div className="roadmap_img_container">
-                    <img
-                      src={imageList[idx % imageList.length] || reactlogo}
-                      alt={`Step ${idx + 1}`}
-                      className="roadmap_img"
-                    />
-                  </div>
-                </li>
-              ))}
-            </ul>
-          ) : (
-            <p>No matching roadmap found.</p>
-          )}
-  
-          {/* Only Button Now */}
-          <button className="enroll_button" onClick={handleEnroll}>
-            Enroll Now
-          </button>
-        </div>
-      </div>
-    );
-  };
-  
-  export default RoadMap;
-  
+    }
+  }, [roadmapData]);
+
+  if (!rawOutput) {
+    return <div>Loading roadmap...</div>;
+  }
+
+  return (
+    <div className="roadmap-container">
+      <h1 className="roadmap-title">Raw Output for {selectedCourse}</h1>
+      <pre style={{ whiteSpace: 'pre-wrap', wordWrap: 'break-word' }}>
+        {rawOutput}
+      </pre>
+    </div>
+  );
+};
+
+export default Roadmap;

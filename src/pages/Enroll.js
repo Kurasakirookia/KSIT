@@ -10,7 +10,8 @@ import { db } from '../firebase'; // Import from your firebase.js file
 const Enroll = () => {
   const location = useLocation();
   const navigate = useNavigate();
-  const { selectedCourse } = location.state || {};
+  const { selectedCourse, answers } = location.state || {};
+
 
   const [completionDate, setCompletionDate] = useState('');
   const [notificationEnabled, setNotificationEnabled] = useState(false);
@@ -38,6 +39,8 @@ const Enroll = () => {
           course: selectedCourse,
           deadline: completionDate,
           notificationsEnabled: notificationEnabled,
+          answers: answers,  // 👈 add this line
+          enrolledDate: new Date().toISOString()
         })
       }, { merge: true }); // Merge will not overwrite existing data
   

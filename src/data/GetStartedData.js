@@ -1,35 +1,49 @@
 const questions = [
-    {
-      id: 1,
-      question: "What is your current level of experience with this topic?",
-      options: ["Beginner", "Familiar", "Not sure"],
-      key: "experienceLevel"
-    },
-    {
-      id: 2,
-      question: "What is your goal for learning this?",
-      options: ["Crack interview", "College projects", "For fun", "For higher studies", "To go deeper into the topic"],
-      key: "learningGoal"
-    },
-    {
-      id: 3,
-      question: "How much time can you spend per week?",
-      options: ["3 hrs", "6 hrs", "10 hrs"],
-      key: "timePerWeek"
-    },
-    {
-      id: 4,
-      question: "What is your timeline to complete the course?",
-      options: ["2 weeks", "3 weeks", "4 weeks", "No specific deadline"],
-      key: "timeline"
-    },
-    // {
-    //   id: 5,
-    //   question: "Do you prefer more theory or hands-on practice?",
-    //   options: ["Theory heavy", "Balanced", "Project-based"],
-    //   key: "learningStyle"
-    // }
-  ];
-  
-  export default questions;
-  
+  {
+    id: "q1",
+    question: "What is your current skill level in this track?",
+    options: ["Beginner", "Intermediate", "Advanced"],
+  },
+  {
+    id: "q2",
+    question: "How many hours can you study per week?",
+    options: ["<5 hours", "5-10 hours", "10-20 hours", ">20 hours"],
+  },
+  {
+    id: "q3",
+    question: "What is your final goal?",
+    options: ["Get a Job", "Freelance Work", "Skill Upgrade", "Certification"],
+  },
+  {
+    id: "q4",
+    question: "What is your timeline?",
+    options: ["1 month", "3 months", "6 months", "1 year"],
+  },
+  {
+    id: "q5",
+    question: "Preferred programming language?",
+    options: ["Python", "JavaScript", "Java", "C++", "No Preference"],
+  },
+  {
+    id: "q6",
+    question: "Preferred framework/library?",
+    options: ["React", "Vue", "Django", "Flask", "None"],
+  },
+  {
+    id: "q7",
+    question: "Do you have prior programming experience?",
+    options: ["Yes", "No"],
+  },
+  {
+    id: "q8",
+    question: "How much are you interested in doing projects?",
+    options: ["Low", "Medium", "High"],
+  },
+  {
+    id: "q9",
+    question: "Do you want certifications?",
+    options: ["Yes", "No"],
+  }
+];
+
+export default questions;

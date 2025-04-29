@@ -17,18 +17,18 @@ const courses = [
       description: "Prepare for interviews with DSA in Java. helo java i am tejas etc ",
       category: "Programming"
     },
-    // {
-    //   id: 4,
-    //   title: "UI/UX Design Fundamentals",
-    //   description: "Design user-friendly interfaces with principles of visual hierarchy and usability. iam more text to fill the space ",
-    //   category: "Design"
-    // },
-    // {
-    //   id: 5,
-    //   title: "Machine Learning Basics",
-    //   description: "Get started with ML models, training data, and evaluation techniques.",
-    //   category: "AI/ML"
-    // },
+    {
+      id: 4,
+      title: "Cybersecurity",
+      description: "Design user-friendly interfaces with principles of visual hierarchy and usability. iam more text to fill the space ",
+      category: "Design"
+    },
+    {
+      id: 5,
+      title: "devops",
+      description: "Get started with ML models, training data, and evaluation techniques.",
+      category: "AI/ML"
+    },
     // {
     //   id: 6,
     //   title: "Operating Systems Essentials",
