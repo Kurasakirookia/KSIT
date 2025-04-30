@@ -7,44 +7,55 @@ body{
 
 .navbar_container{
    
-    margin-top: 0.5vh;
-    width: 13%;
-    height: auto;
-    border-radius: 0 5vh 5vh 0;
+    
+    width: 100%;
+    height: 10%;
+    /* border-radius: 0 5vh 5vh 0; */
     background-color: #dedef1;
     display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    gap: 60%;
+    
+    justify-content: space-around;
     
     
     
     
 }
+.item{
+    all: unset;
+}
 
-.nav_content > li{
+
+.nav_content >.nav_item{
+    text-decoration: none;
     all: unset;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
+    cursor: pointer;
     
 }
 
 .nav_content{
     
     display: flex;
-    flex-direction:column;
-    
-    
-    
-    gap: 2vh;
-
+    flex-direction:row;    
+    gap: 4vh;
 }
+
+.nav_content >.item{
+    all: unset;
+    text-decoration: none;
+}
+
+
 
 
 .login_signup{
     margin-left:30px ;
     display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
+    flex-direction: row;
+
+    gap: 10px;
 }
 
 .profilelogo{
