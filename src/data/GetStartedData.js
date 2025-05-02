@@ -21,27 +21,7 @@ const questions = [
   },
   {
     id: "q5",
-    question: "Preferred programming language?",
-    options: ["Python", "JavaScript", "Java", "C++", "No Preference"],
-  },
-  {
-    id: "q6",
-    question: "Preferred framework/library?",
-    options: ["React", "Vue", "Django", "Flask", "None"],
-  },
-  {
-    id: "q7",
     question: "Do you have prior programming experience?",
-    options: ["Yes", "No"],
-  },
-  {
-    id: "q8",
-    question: "How much are you interested in doing projects?",
-    options: ["Low", "Medium", "High"],
-  },
-  {
-    id: "q9",
-    question: "Do you want certifications?",
     options: ["Yes", "No"],
   }
 ];

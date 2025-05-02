@@ -4,13 +4,14 @@ import courses from "../data/CoursesData"
 import { useState } from 'react'
 import search_icon from "../assets/search_icon.svg"
 import search_img from "../assets/search.png"
-
+// import { useNavigate } from 'react-router-dom'
 import bg from "../assets/background_asset.png"
+import { Link } from 'react-router-dom'
 
 const Courses = () => {
   
  
-
+    // const navigate=useNavigate();
     const [searchTerm, setSearchTerm] = useState('');
   
     const filteredCourses = courses.filter(course =>
@@ -77,6 +78,11 @@ const Courses = () => {
             {filteredCourses.length > 0 ? (
               
               filteredCourses.map(course => (
+                <Link to="/GetStarted"  state={{ 
+                  id: course.id, 
+                  title: course.title, 
+                  style: course.style 
+                }}  className='course_link'>
                 <div key={course.id} className="course_page_card" style={course.style}>
                   <div className="coursecard">
                       <div className="course_info">
@@ -86,6 +92,7 @@ const Courses = () => {
                       <img src={course.img} alt={`${course.title} img`} id='course_img'/>
                   </div>
                 </div>
+                </Link>
               ))
               
             

@@ -99,7 +99,7 @@ body{
 }
 
 
-.loginsignin>.box:hover{
+.box:hover{
     color:#FCF9C3;
     background-color: transparent;
     border-left: 1px solid #FCF9C3;  /* thicker on the left */
@@ -151,6 +151,10 @@ body{
     display: inline-block;
     font-size: 46px;
     margin: 0px;
+    
+  font-weight: bold;
+  
+
    
     
 }

@@ -188,5 +188,10 @@ textarea::placeholder {
     height: 100%;
     width: 100%;
     object-fit: contain;
-    right: 8%;
+    right: 9%;
+}
+
+.course_link{
+    all: unset;
+    width: 100vw;
 }
