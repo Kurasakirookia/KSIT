@@ -11,6 +11,8 @@ import Layout from './components/Layout'
 import GetStarted from './pages/GetStarted';
 import ProfilePage from './pages/ProfilePage';
 import Test from './Procotoring/test'
+// import Issue from './pages/issue_list'
+// import issueFilter from './components/issueFilter';
 
 
 import { BrowserRouter as Router , Routes, Route } from 'react-router-dom';
@@ -33,6 +35,7 @@ function App() {
           <Route path="/RoadMap" element={<RoadMap/>}/>
           <Route path="/ProfilePage" element={<ProfilePage/>}/>
           <Route path="/Test" element={<Test/>}/>
+          {/* <Route path="/issue" element={<Issue/>}/> */}
           
           
           
